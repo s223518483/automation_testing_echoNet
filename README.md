@@ -26,9 +26,9 @@ git clone https://github.com/s223518483/automation_testing_echoNet.git
 ### Executing program
 
 *  Run the code injection program:
-** 1/ Run EchoNet project
-** 2/ Maunually create a test acount with username "abcdef" and password "1234567890"
-** 3/ run command bellow
+*  1/ Run EchoNet project
+*  2/ Maunually create a test acount with username "abcdef" and password "1234567890"
+*  3/ run command bellow
 ```
 node autocodeinjection.js
 ```
